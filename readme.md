@@ -1,4 +1,4 @@
 git-ignores
 ===========
 
-my git ignore files x2
+my git ignore files 
