@@ -1,4 +1,5 @@
 git-ignores
 ===========
 
-my git ignore files
+git ignore lol america files
+
